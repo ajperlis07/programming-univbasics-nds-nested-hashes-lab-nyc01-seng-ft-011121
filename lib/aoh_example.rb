@@ -21,7 +21,8 @@ end
 
 def literal_aoh
   literal_aoh = [
-    DON_G]
+    DON_G = { name:  "Don Gately", occupation: "Live-in Staff" },
+    ]
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
